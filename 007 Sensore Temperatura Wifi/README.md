@@ -1,0 +1,1 @@
+https://www.lutritech.it/sensore-temperatura-wifi/

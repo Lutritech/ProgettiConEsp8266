@@ -1,0 +1,1 @@
+https://www.lutritech.it/rilevatore-di-fumi-smart/
