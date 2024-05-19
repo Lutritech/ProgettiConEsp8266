@@ -1,6 +1,6 @@
-/* www.lutritech.it
+/* https://www.lutritech.it/come-realizzare-un-micro-pc-con-esp8266/
 
-  Micro Computer con Pong giocabile
+  Micro Computer con Pong giocabile con Esp8266
   
   https://www.youtube.com/@Lutritech
   https://www.facebook.com/lutritech.it
